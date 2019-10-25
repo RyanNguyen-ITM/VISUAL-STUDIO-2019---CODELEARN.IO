@@ -1,0 +1,6 @@
+﻿  countMarbleExchange.cpp
+D:\Algorithm\VISUAL STUDIO 2019\countMarbleExchange\countMarbleExchange\countMarbleExchange.cpp(21,20): warning C4018: '<': signed/unsigned mismatch
+D:\Algorithm\VISUAL STUDIO 2019\countMarbleExchange\countMarbleExchange\countMarbleExchange.cpp(29,21): warning C4018: '<': signed/unsigned mismatch
+D:\Algorithm\VISUAL STUDIO 2019\countMarbleExchange\countMarbleExchange\countMarbleExchange.cpp(36,15): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+D:\Algorithm\VISUAL STUDIO 2019\countMarbleExchange\countMarbleExchange\countMarbleExchange.cpp(37,21): warning C4018: '<': signed/unsigned mismatch
+  countMarbleExchange.vcxproj -> D:\Algorithm\VISUAL STUDIO 2019\JPG CODEWAR 2019 3\Debug\countMarbleExchange.exe

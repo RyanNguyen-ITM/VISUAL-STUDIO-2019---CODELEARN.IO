@@ -1,0 +1,4 @@
+﻿  Source.cpp
+D:\Algorithm\VISUAL STUDIO 2019\List permutations\List permutations\Source.cpp(17,20): warning C4018: '<': signed/unsigned mismatch
+D:\Algorithm\VISUAL STUDIO 2019\List permutations\List permutations\Source.cpp(39,6): warning C4101: 'k': unreferenced local variable
+  List permutations.vcxproj -> D:\Algorithm\VISUAL STUDIO 2019\List permutations\Debug\List permutations.exe

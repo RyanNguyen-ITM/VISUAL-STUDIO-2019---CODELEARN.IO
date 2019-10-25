@@ -1,0 +1,8 @@
+﻿  findBiggestNumber.cpp
+D:\Algorithm\VISUAL STUDIO 2019\findBiggestNumber\findBiggestNumber\findBiggestNumber.cpp(27,21): warning C4018: '<': signed/unsigned mismatch
+D:\Algorithm\VISUAL STUDIO 2019\findBiggestNumber\findBiggestNumber\findBiggestNumber.cpp(45,20): warning C4018: '<': signed/unsigned mismatch
+D:\Algorithm\VISUAL STUDIO 2019\findBiggestNumber\findBiggestNumber\findBiggestNumber.cpp(49,19): warning C4018: '<': signed/unsigned mismatch
+D:\Algorithm\VISUAL STUDIO 2019\findBiggestNumber\findBiggestNumber\findBiggestNumber.cpp(76,19): warning C4018: '<': signed/unsigned mismatch
+D:\Algorithm\VISUAL STUDIO 2019\findBiggestNumber\findBiggestNumber\findBiggestNumber.cpp(42,6): warning C4101: 'idx': unreferenced local variable
+D:\Algorithm\VISUAL STUDIO 2019\findBiggestNumber\findBiggestNumber\findBiggestNumber.cpp(41,6): warning C4101: 'res': unreferenced local variable
+  findBiggestNumber.vcxproj -> D:\Algorithm\VISUAL STUDIO 2019\JPG CODEWAR 2019 3\Debug\findBiggestNumber.exe

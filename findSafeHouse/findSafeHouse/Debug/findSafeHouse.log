@@ -1,0 +1,7 @@
+﻿  findSafeHouse.cpp
+D:\Algorithm\VISUAL STUDIO 2019\findSafeHouse\findSafeHouse\findSafeHouse.cpp(11,20): warning C4018: '<': signed/unsigned mismatch
+D:\Algorithm\VISUAL STUDIO 2019\findSafeHouse\findSafeHouse\findSafeHouse.cpp(28,20): warning C4018: '<': signed/unsigned mismatch
+D:\Algorithm\VISUAL STUDIO 2019\findSafeHouse\findSafeHouse\findSafeHouse.cpp(39,21): warning C4018: '<': signed/unsigned mismatch
+D:\Algorithm\VISUAL STUDIO 2019\findSafeHouse\findSafeHouse\findSafeHouse.cpp(57,21): warning C4018: '<': signed/unsigned mismatch
+D:\Algorithm\VISUAL STUDIO 2019\findSafeHouse\findSafeHouse\findSafeHouse.cpp(73,21): warning C4018: '<': signed/unsigned mismatch
+  findSafeHouse.vcxproj -> D:\Algorithm\VISUAL STUDIO 2019\findSafeHouse\Debug\findSafeHouse.exe

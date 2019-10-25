@@ -1,0 +1,4 @@
+﻿  exchangeMoney.cpp
+D:\Algorithm\VISUAL STUDIO 2019\JPG CODEWAR 2019 3\exchangeMoney\exchangeMoney.cpp(11,20): warning C4018: '<': signed/unsigned mismatch
+D:\Algorithm\VISUAL STUDIO 2019\JPG CODEWAR 2019 3\exchangeMoney\exchangeMoney.cpp(12,25): warning C4018: '<': signed/unsigned mismatch
+  exchangeMoney.vcxproj -> D:\Algorithm\VISUAL STUDIO 2019\JPG CODEWAR 2019 3\Debug\exchangeMoney.exe

@@ -1,0 +1,5 @@
+﻿  unlockTheCode.cpp
+D:\Algorithm\VISUAL STUDIO 2019\JPG CODEWAR 2019 3\unlockTheCode\unlockTheCode.cpp(12,20): warning C4018: '<': signed/unsigned mismatch
+D:\Algorithm\VISUAL STUDIO 2019\JPG CODEWAR 2019 3\unlockTheCode\unlockTheCode.cpp(13,21): warning C4018: '<': signed/unsigned mismatch
+D:\Algorithm\VISUAL STUDIO 2019\JPG CODEWAR 2019 3\unlockTheCode\unlockTheCode.cpp(35,20): warning C4018: '<': signed/unsigned mismatch
+  unlockTheCode.vcxproj -> D:\Algorithm\VISUAL STUDIO 2019\JPG CODEWAR 2019 3\Debug\unlockTheCode.exe
