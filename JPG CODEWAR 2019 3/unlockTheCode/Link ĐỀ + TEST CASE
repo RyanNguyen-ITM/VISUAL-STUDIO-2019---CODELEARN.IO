@@ -1,0 +1,128 @@
+https://codelearn.io/FightsTask/Index?Id=305960&TaskId=87511
+
+##Test Case 1
+Đầu vào:"XO", "XXXO", 4, [["XX", "XO"], ["XO", "OO"], ["O", "XX"]]
+Đầu ra:true
+Đầu ra mong muốn:true
+Giới hạn thời gian chạy:
+500 ms
+Thời gian thực hiện:
+23 ms
+Tin nhắn:
+Right answer
+
+##Test Case 2
+Đầu vào:"OXOXX", "XOOOXXOXOO", 6, [["XX", "XO"], ["XO", "OO"], ["O", "XX"]]
+Đầu ra:
+Đầu ra mong muốn:false
+Giới hạn thời gian chạy:
+500 ms
+Thời gian thực hiện:
+Tin nhắn:
+Program exceeded the execution time limit.
+
+##Test Case 3
+Đầu vào:"XXOXX", "XOOOXXOXOO", 8, [["O", "XX"], ["XX", "XO"], ["XO", "OO"]]
+Đầu ra:
+Đầu ra mong muốn:false
+Giới hạn thời gian chạy:
+500 ms
+Thời gian thực hiện:
+Tin nhắn:
+Program exceeded the execution time limit.
+
+##Test Case 4
+Đầu vào:"XX", "O", 4, [["X", "O"], ["O", "XX"], ["OO", "X"]]
+Đầu ra:true
+Đầu ra mong muốn:true
+Giới hạn thời gian chạy:
+500 ms
+Thời gian thực hiện:
+21 ms
+Tin nhắn:
+Right answer
+
+##Test Case 5
+Đầu vào:"X", "O", 13, [["X", "O"], ["O", "X"], ["X", "XX"]]
+Đầu ra:
+Đầu ra mong muốn:true
+Giới hạn thời gian chạy:
+500 ms
+Thời gian thực hiện:
+Tin nhắn:
+Program exceeded the execution time limit.
+
+##Test Case 6
+Đầu vào:"XOX",  "OO", 6, [["XX","XXX"],   ["OX","XO"]]
+Đầu ra:false
+Đầu ra mong muốn:false
+Giới hạn thời gian chạy:
+500 ms
+Thời gian thực hiện:
+22 ms
+Tin nhắn:
+Right answer
+
+##Test Case 7
+Đầu vào:"XOXX", "OOOO", 2,  [["X","XO"],   ["XOXX","OOO"]]
+Đầu ra:true
+Đầu ra mong muốn:true
+Giới hạn thời gian chạy:
+500 ms
+Thời gian thực hiện:
+21 ms
+Tin nhắn:
+Right answer
+
+##Test Case 8
+Đầu vào:"X", "O", 1, [["X", "O"]]
+Đầu ra:true
+Đầu ra mong muốn:true
+Giới hạn thời gian chạy:
+500 ms
+Thời gian thực hiện:
+21 ms
+Tin nhắn:
+Right answer
+
+##Test Case 9
+Đầu vào:"XOOOXXX",  "OXOXOOO", 6, [["XX","OO"],   ["OOX","X"],   ["O","OXX"]]
+Đầu ra:
+Đầu ra mong muốn:false
+Giới hạn thời gian chạy:
+500 ms
+Thời gian thực hiện:
+Tin nhắn:
+Program exceeded the execution time limit.
+
+##Test Case 10
+Đầu vào:"XXX", "XXX", 5,  [["X","OO"],   ["O","X"],   ["OO","X"]]
+Đầu ra:false
+Đầu ra mong muốn:false
+Giới hạn thời gian chạy:
+500 ms
+Thời gian thực hiện:
+32 ms
+Tin nhắn:
+Right answer
+
+##Test Case 11
+Đầu vào:"X", "X", 5, [["X", "O"], ["O", "X"], ["XO", "OX"]]
+Đầu ra:false
+Đầu ra mong muốn:false
+Giới hạn thời gian chạy:
+500 ms
+Thời gian thực hiện:
+21 ms
+Tin nhắn:
+Right answer
+
+##Test Case 12
+Đầu vào:"XXXOXXOOXX", "OOOOOOOO", 7, [["X", "O"], ["O", "XX"], ["O", "X"]]
+Đầu ra:
+Đầu ra mong muốn:false
+Giới hạn thời gian chạy:
+500 ms
+Thời gian thực hiện:
+Tin nhắn:
+Program exceeded the execution time limit.
