@@ -1,6 +1,5 @@
 ﻿/*
-
-	VƯỢT QUÁ THỜI GIAN
+	ĐÃ VƯỢT QUA
 
 */
 #include<iostream>
