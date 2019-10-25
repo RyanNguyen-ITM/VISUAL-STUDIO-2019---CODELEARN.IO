@@ -1,4 +1,0 @@
-﻿  findTheSeatLine.cpp
-D:\Algorithm\VISUAL STUDIO 2019\SASUKE CODEWAR 8\findTheSeatLine\findTheSeatLine.cpp(19,14): warning C4244: '=': conversion from 'double' to '__int64', possible loss of data
-D:\Algorithm\VISUAL STUDIO 2019\SASUKE CODEWAR 8\findTheSeatLine\findTheSeatLine.cpp(20,18): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
-  findTheSeatLine.vcxproj -> D:\Algorithm\VISUAL STUDIO 2019\SASUKE CODEWAR 8\Debug\findTheSeatLine.exe
