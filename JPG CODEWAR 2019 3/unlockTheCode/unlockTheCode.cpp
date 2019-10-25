@@ -31,16 +31,7 @@ void proc(string start, string target, int n, vector<vector<string>> arr, vector
 bool unlockTheCode(std::string start, std::string target, int n, std::vector<std::vector<std::string>> arr)
 {
 	vector<string> res;
-	int tang = 0;
-	int giam = 0;
-	int temp;
-	for (int i = 0; i < arr.size(); i++) {
-		temp = arr[i][1].size() - arr[i][0].size();	// dang xet chi vs truong hop tang size()
-		if (temp > tang) tang = temp;
-		temp = arr[i][0].size() - arr[i][1].size();
-		if (temp > giam) giam = temp;
-	}
-
+	
 	proc(start, target, n, arr, res);
 	for (int i = 0; i < res.size(); i++) {
 		if (res[i].compare(target) == 0) {
